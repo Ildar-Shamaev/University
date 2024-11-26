@@ -1,0 +1,4 @@
+﻿  LB1(1).cpp
+E:\ЧМ\Лабы\LB1(6)\LB1(1)\LB1(1).cpp(81,6): warning C4101: 'n': unreferenced local variable
+E:\ЧМ\Лабы\LB1(6)\LB1(1)\LB1(1).cpp(78): warning C4715: 'Pn': not all control paths return a value
+  LB1(1).vcxproj -> E:\ЧМ\Лабы\LB1(6)\x64\Debug\LB1(1).exe
