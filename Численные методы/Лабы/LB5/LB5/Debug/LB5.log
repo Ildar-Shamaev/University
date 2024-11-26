@@ -1,8 +1,0 @@
-﻿  LB5.cpp
-C:\Users\MSI\source\repos\LB5\LB5\LB5.cpp(10,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\MSI\source\repos\LB5\LB5\LB5.cpp(12,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\MSI\source\repos\LB5\LB5\LB5.cpp(22,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\MSI\source\repos\LB5\LB5\LB5.cpp(43,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\MSI\source\repos\LB5\LB5\LB5.cpp(82,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\MSI\source\repos\LB5\LB5\LB5.cpp(290,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  LB5.vcxproj -> C:\Users\MSI\source\repos\LB5\Debug\LB5.exe

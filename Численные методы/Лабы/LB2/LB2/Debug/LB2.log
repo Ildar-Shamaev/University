@@ -1,3 +1,0 @@
-﻿  IntegrationMethod.cpp
-E:\ЧМ\Лабы\LB2\LB2\IntegrationMethod.cpp(48,6): error C2653: 'IntetionMethod': is not a class or namespace name
-E:\ЧМ\Лабы\LB2\LB2\IntegrationMethod.cpp(50,2): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
